@@ -5,6 +5,12 @@
 <h2 align="center">CuuDuong Dang aka Duongthieungu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+you+to+my+github,;AI+Engineer,;HCMUTE+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3,;Want to be a Pro Researcher in AI/CV"></a>
+  
+</p>
+<p align="center">
+  🚀 Passionate about <b>Artificial Intelligence, Computer Vision, and Deep Learning</b><br>
+  🎓 Currently studying at <b>HCMUTE</b> and exploring cutting-edge AI research.<br>
+  💡 Always curious and love to build innovative projects.
 </p>
 
 
@@ -41,6 +47,14 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
+</p>
+
 </p>
 
 ## Activities:
