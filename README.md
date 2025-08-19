@@ -4,7 +4,7 @@
 
 <h2 align="center">DuongThieuNgu Data</h2>
 <p align="center">
-  <h3 align="center">Ước mơ trở thành pro AI researcher </h3>
+<h3 align="center">Ước mơ trở thành pro AI researcher và nô lệ của tư bản</h3>
 </p>
 
 
@@ -17,13 +17,13 @@
   <a href="https://www.facebook.com/dangcuuduong" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="[https://github.com/TienNHM](https://github.com/DangCuuDuong)" alt="Github">
+  <a href="https://github.com/DangCuuDuong" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/@angduong1030" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
+  <a href="https://www.kaggle.com/dangduong2004" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
   </a>
   <a href="mailto:duongdangnt@gmail.com" alt="Email">
