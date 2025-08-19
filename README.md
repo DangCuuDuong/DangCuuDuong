@@ -69,10 +69,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔹 [Fruit Detection with YOLOv8](https://github.com/...) – Real-time fruit recognition using YOLOv8.  
-- 🔹 [Diabetes Prediction](https://github.com/...) – Building ML models to predict diabetes risk with structured health data.  
-- 🔹 [WESAD Stress Dataset Analysis](https://github.com/...) – Signal processing and classification of wearable sensor data.  
-
+- 🔹 [CabinTranslate](https://github.com/DangCuuDuong/CabinTranslate) – Real-time Translate app.  
+- 🔹 [Diabetes Prediction](https://github.com/DangCuuDuong/predicts_diabetes_AI) – Building ML models to predict diabetes risk with structured health data.  
+- 🔹 [Frigey](https://github.com/DangCuuDuong/Hackathon2025) – Management and recommendation meal app.
 ---
 
 ## 🏆 Achievements
