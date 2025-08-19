@@ -1,67 +1,100 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
+<!-- Avatar on the right -->
 <img align="right" width="64" src="https://github.com/DangCuuDuong.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Cuu-Duong Dang aka Duongthieungu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<p align="center">  
-</p>
+<h2 align="center">👋 Hi there! I'm <b>CuuDuong Dang</b> (aka <i>Duongthieungu</i>)</h2>
 <p align="center">
-  🚀 Passionate about <b>Artificial Intelligence, Computer Vision and Deep Learning</b><br>
-  🎓 Currently studying at <b>HCMUTE</b> and exploring cutting-edge AI research.<br>
-  💡 Always curious and love to build innovative projects.
-</p>
-
-
-<br />
-
-## 📫 How to reach me:
-
-<p align="center">
- 
-  <a href="https://www.facebook.com/dangcuuduong" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/DangCuuDuong" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/@angduong1030" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/dangduong2004" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:duongdangnt@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;Aspiring+AI+Engineer;HCMUTE+Student;Active+Learner+%26+Researcher;Loves+to+build+AI+projects;Dream:+Pro+Researcher+in+AI/CV">
   </a>
 </p>
 
-## Skills:
+---
+
+## 🌟 About Me  
+- 🎓 Currently an undergraduate student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and NLP**.  
+- 🏆 Experienced with **Kaggle competitions** and hands-on AI projects.  
+- 💡 Research interests: **Generative AI, Multimodal AI, and Healthcare AI**.  
+- ✍️ Love sharing knowledge, writing technical notes, and contributing to open-source projects.  
+
+---
+
+## 📫 Connect with me
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <a href="https://www.facebook.com/dangcuuduong"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+  <a href="https://github.com/DangCuuDuong"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+  <a href="https://www.youtube.com/@angduong1030"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a>
+  <a href="https://www.kaggle.com/dangduong2004"><img src="https://img.icons8.com/windows/48/000000/kaggle.png"/></a>
+  <a href="mailto:duongdangnt@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/mailing.png"/></a>
+  <!-- Add LinkedIn or Google Scholar if available -->
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <!-- AI/ML -->
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/>
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48"/>
+
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+  <!-- Dev Tools -->
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/anaconda.png"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangCuuDuong&layout=compact&langs_count=10&bg_color=00000000&text_color=179fa3&hide=CSS"/>
 </p>
 
-## Activities:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DangCuuDuong&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&text_color=179fa3"/>
+</p>
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangCuuDuong&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DangCuuDuong&show_icons=true&locale=en" alt="mihnnathja" /></p>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DangCuuDuong&theme=transparent&border_radius=10"/>
+</p>
 
+---
+
+## 🚀 Featured Projects
+- 🔹 [Fruit Detection with YOLOv8](https://github.com/...) – Real-time fruit recognition using YOLOv8.  
+- 🔹 [Diabetes Prediction](https://github.com/...) – Building ML models to predict diabetes risk with structured health data.  
+- 🔹 [WESAD Stress Dataset Analysis](https://github.com/...) – Signal processing and classification of wearable sensor data.  
+
+---
+
+## 🏆 Achievements
+- 🥇 **Kaggle Competitions**: Ranked in the top XX% for [Competition Name].  
+- 📖 **Research**: Exploring **Multimodal AI** combining medical images and patient health records.  
+- 🌍 **Open Source**: Contributed to projects related to **AI and data science**.  
+
+---
+
+## ✨ Fun Facts
+- ☕ AI + Vietnamese iced coffee = perfect combo.  
+- 🎮 Love playing FPS and MOBA games to relax.  
+- 📝 Sometimes I write down my learnings and share them as tech notes.  
+
+---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400"/>
+</p>
+
+<p align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=DangCuuDuong&color=blue)
+</p>
