@@ -81,8 +81,8 @@
 ---
 
 ## ✨ Fun Facts
-- ☕ AI + Vietnamese iced coffee = perfect combo.  
-- 🎮 Love playing FPS and MOBA games to relax.  
+- ☕ AI + Vietnamese iced coffee = perfect combo (Cà phê sữa đá).  
+- 🎮 Love playing FPS and MOBA games to relax while waiting for models to finish training.
 - 📝 Sometimes I write down my learnings and share them as tech notes.  
 
 ---
