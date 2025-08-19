@@ -45,8 +45,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
 </p>
 
 </p>
