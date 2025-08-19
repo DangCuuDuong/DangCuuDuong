@@ -1,7 +1,7 @@
 <!-- Avatar on the right -->
 <img align="right" width="64" src="https://github.com/DangCuuDuong.png" />
 
-<h2 align="center">👋 Hi there! I'm <b>CuuDuong Dang</b> (aka <i>Duongthieungu</i>)</h2>
+<h2 align="center">👋 Hi there! I'm <b>Cuu-Duong Dang</b> (aka <i>Duongthieungu</i>)</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;Aspiring+AI+Engineer;HCMUTE+Student;Active+Learner+%26+Researcher;Loves+to+build+AI+projects;Dream:+Pro+Researcher+in+AI/CV">
@@ -12,9 +12,9 @@
 
 ## 🌟 About Me  
 - 🎓 Currently an undergraduate student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and NLP**.  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and NLP**.  
 - 🏆 Experienced with **Kaggle competitions** and hands-on AI projects.  
-- 💡 Research interests: **Generative AI, Multimodal AI, and Healthcare AI**.  
+- 💡 Research interests: **Generative AI, Multimodal AI and Healthcare AI**.  
 - ✍️ Love sharing knowledge, writing technical notes, and contributing to open-source projects.  
 
 ---
@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://www.facebook.com/dangcuuduong"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
   <a href="https://github.com/DangCuuDuong"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-  <a href="https://www.youtube.com/@angduong1030"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a>
+  <a href="https://www.youtube.com/@duongthieungu"><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a>
   <a href="https://www.kaggle.com/dangduong2004"><img src="https://img.icons8.com/windows/48/000000/kaggle.png"/></a>
   <a href="mailto:duongdangnt@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/mailing.png"/></a>
   <!-- Add LinkedIn or Google Scholar if available -->
@@ -78,10 +78,9 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Kaggle Competitions**: Ranked in the top XX% for [Competition Name].  
 - 📖 **Research**: Exploring **Multimodal AI** combining medical images and patient health records.  
-- 🌍 **Open Source**: Contributed to projects related to **AI and data science**.  
-
+- 🏆 **Prize**: The **Champion** of HCMUTE Hackathon 2025.
+- 🗣️ **Presentor** The **Presentor** at IWIS - The International Workshop on Intelligent Systems 2025 held at university of ulsan
 ---
 
 ## ✨ Fun Facts
