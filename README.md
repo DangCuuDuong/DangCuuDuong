@@ -77,7 +77,7 @@
 ## 🏆 Achievements
 - 📖 **Research**: Exploring **Multimodal AI** combining medical images and patient health records.  
 - 🏆 **Prize**: The **Champion** of HCMUTE Hackathon 2025.
-- 🗣️ **Presentor** The **Presentor** at IWIS - The International Workshop on Intelligent Systems 2025 held at university of ulsan
+- 🗣️ **Presentor**: The **Presentor** at IWIS - The International Workshop on Intelligent Systems 2025 held at university of ulsan
 ---
 
 ## ✨ Fun Facts
@@ -87,7 +87,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 
