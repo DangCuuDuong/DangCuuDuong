@@ -2,9 +2,9 @@
 <img align="right" width="64" src="https://github.com/DangCuuDuong.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">DuongThieuNgu Data</h2>
+<h2 align="center">CuuDuong Dang aka Duongthieungu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <p align="center">
-<h3 align="center">Ước mơ trở thành pro AI researcher và nô lệ của tư bản</h3>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+you+to+my+github,;AI+Engineer,;HCMUTE+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3,;Want to be a Pro Researcher in AI/CV"></a>
 </p>
 
 
